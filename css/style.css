@@ -1,0 +1,6 @@
+/* screen */
+@import "screen/login.css";
+
+body {
+  background-color: rgba(40, 57, 101, 0.9);
+}
