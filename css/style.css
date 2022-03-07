@@ -3,6 +3,10 @@
 /* screen */
 @import "screen/login.css";
 @import "screen/main.css";
+@import "screen/avatar.css";
+@import "screen/minigame.css";
+@import "screen/minigamePhotose.css";
+@import "screen/workoutPhotos.css";
 
 /* components*/
 @import "components/nav-bar.css";
